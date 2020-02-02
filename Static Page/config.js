@@ -17,7 +17,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/app-generator/gatsby-html5up-aerial',
+      url: 'https://github.com/romahawk',
     },
     {
       icon: 'fa-twitter',
