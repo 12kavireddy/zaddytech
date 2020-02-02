@@ -9,7 +9,7 @@ export default function Header() {
         <h1>
           ZaddyTech
         </h1>
-        <p>A Professional Big Data Staffing Compnay</p>
+        <p>A Big Data Services Company</p>
       </div>
       <div id="contact">
         <h2>

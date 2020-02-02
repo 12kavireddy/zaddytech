@@ -6,6 +6,9 @@ export default function Footer() {
       <span class="copyright">
         &copy; ZaddyTech 2020. All Rights Reserved.
       </span>
+      <span class="credit">
+        Photo by NASA
+      </span>
     </footer>
   );
 }
