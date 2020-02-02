@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'ZaddyTech', // <title>
-  manifestName: 'Aerial',
-  manifestShortName: 'Portfolio', // max 12 characters
+  manifestName: 'Big Data Services',
+  manifestShortName: 'Big Data', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
