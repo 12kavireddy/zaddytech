@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer id="footer">
       <span class="copyright">
-        &copy; ZaddyTech. All Rights Reserved.
+        &copy; ZaddyTech 2020. All Rights Reserved.
       </span>
     </footer>
   );

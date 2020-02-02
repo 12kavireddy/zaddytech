@@ -13,11 +13,8 @@ export default function Header() {
       </div>
       <div id="contact">
         <h2>
-          Reach Us -
-        </h2>
-        <h3>
           <a href="mailto:contact@zaddytech.com">contact@zaddytech.com</a>
-        </h3>
+        </h2>
       </div>
     </header>
   );
