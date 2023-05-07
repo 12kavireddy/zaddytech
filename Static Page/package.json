@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "ftp-deploy": "^2.3.3",
-    "gatsby": "^2.13.3",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-manifest": "^2.2.1",
     "gatsby-plugin-offline": "^2.2.1",
     "gatsby-plugin-react-helmet": "^3.1.0",
